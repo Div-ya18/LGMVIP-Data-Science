@@ -2,20 +2,20 @@
 
 # BY DIVYA P S
 
-This Project can be done using following classification methods:
+This Project can be done using following classification methods: <br/>
 
-#k Nearest Neighbours
-#Naive Bayes classifiers
-#Descision tree classifiers
-#There are 4 Features for the classification;
+k Nearest Neighbours<br/>
+Naive Bayes classifiers<br/>
+Descision tree classifiers<br/>
+There are 4 Features for the classification<br/>
 
-#Sepal length
-#Sepal width
-#Petal length
-#Petal width
-#There are 3 class for the classification
+Sepal length<br/>
+Sepal width<br/>
+Petal length<br/>
+Petal width
+There are 3 class for the classification
 
-#Iris setosa
-#Iris Verginica
-#Iris Versicolor
+Iris setosa
+Iris Verginica
+Iris Versicolor
 
