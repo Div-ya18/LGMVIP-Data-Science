@@ -1,6 +1,6 @@
 # Iris flower classification
 
-## BY DIVYA P S
+# BY DIVYA P S
 
 This Project can be done using following classification methods:
 
