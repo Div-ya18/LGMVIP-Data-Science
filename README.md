@@ -1,23 +1,8 @@
-# Iris flower classification
+# ~ Letsgrowmore Data Science Internship ~
+# Iris flower classification <br/>
+# Stock Market Prediction <br/>
+# Image to Pencil Sketch <br/>
+# Exploratory Data Analysis on Dataset Terroris <br/>
+# Prediction using Decision Tree Algorithm <br/>
 
 # BY DIVYA P S
-
-This Project can be done using following classification methods: <br/>
-<br/>
-k Nearest Neighbours<br/>
-Naive Bayes classifiers<br/>
-Descision tree classifiers<br/>
-<br/>
-There are 4 Features for the classification<br/>
-<br/>
-Sepal length<br/>
-Sepal width<br/>
-Petal length<br/>
-Petal width<br/>
-
-There are 3 class for the classification<br/>
-<br/>
-Iris setosa<br/>
-Iris Verginica<br/>
-Iris Versicolor<br/>
-
